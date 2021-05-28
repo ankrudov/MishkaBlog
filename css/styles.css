@@ -1,0 +1,45 @@
+body {
+    background: #FBEEC1;
+  }
+  
+  .card {
+    background: #BC986A;
+    margin-top: 5rem;
+  
+  }
+  /* jumbotron */
+  #main-jumbo{
+    margin-bottom: 0;
+    background: #659DBD;
+  }
+  .paw-img {
+    height: 10rem;
+    width: 12rem;
+  }
+  #navi {
+    background: #DAAD86;
+    margin-top: 0;
+    padding-top: 0;
+    
+  }
+  
+  #blog-jumbo{
+    background: #BC986A;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #photo-jumbo{
+    background: #BC986A;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .blog-card {
+    background: #FBEEC1;
+  }
+  
+  .paw-carousel{
+    height: 35rem;
+    width: 2rem;
+  }
